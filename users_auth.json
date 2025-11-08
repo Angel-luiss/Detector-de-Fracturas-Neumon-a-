@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "password_hash": "fe6065adb87acfd2b2a546d9ada5174920506d0c5af05be183d5056da04d294811ea55b2ccda0e5d529702a15eea8c9d8027b06b09221464b080e6dd44f6dd3f",
+    "role": "admin",
+    "created_at": "2025-11-05T12:42:59.099681",
+    "last_login": "2025-11-05T14:36:28.534721",
+    "login_count": 15
+  },
+  "test": {
+    "password_hash": "42764d5fed1e95a4df91a77b05a7232a06675eca4f1f8477cecd8efdcbc8ca12d3d0a158d916afdccf0186a13c51bac0ce774758eca48dfb51fdb5c635c24a84",
+    "role": "user",
+    "created_at": "2025-11-05T12:42:59.136400",
+    "last_login": null,
+    "login_count": 0
+  }
+}
